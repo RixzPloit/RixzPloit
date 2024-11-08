@@ -1,4 +1,4 @@
-#👋 Hi, I’m @RixzPloit
+# 👋 Hi, I’m @RixzPloit
 
 <!---
 RixzPloit/RixzPloit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
